@@ -1,0 +1,256 @@
+h1{
+    text-align: center;
+    background: goldenrod;
+    color: aqua;
+    margin: 0 auto;
+     }
+    
+    body{
+      background: rgb(50, 173, 83);
+     }
+    
+     h2{
+       text-align: center;
+       border: yellow;
+       background: olive;
+       margin: 0 auto;
+       color: aquamarine;
+     }
+    p{
+      text-align: center;
+      margin: 0 auto;
+      border: 20 px dotted salmon;
+      width: 600px;
+      background: goldenrod;
+     }
+    h3{
+      text-align: center;
+      margin: 0 auto;
+      color: rgb(134, 17, 31);
+      background: yellow;
+    
+     }
+     
+     img{
+      height: 350px;
+    }
+    
+    .inter_1{
+      background: gray;
+      margin: 0 auto;
+    }
+    
+    .con_1{
+      background: yellow;
+      width: 1200px;
+      margin: 0 auto;
+      
+    }
+     
+    .in_t{
+      width: 400px;
+      background: orange;
+      outline: 2px solid black;
+      display: table-cell;
+      padding: 30px 0;
+    } 
+    
+    
+    .table_1{
+      width: 600px;
+      background: orange;
+      display: table-cell;
+     
+    }
+    
+    .input_1{
+      outline: 2px solid black;
+    }
+    
+    .input_2{
+      outline: 2px solid black;
+      height: 71px;
+    }
+
+    .table_2{
+      width: 600px;
+      background: orange;
+      display: table-cell;
+      outline: 2px solid black;
+    }
+
+    .input_3{
+      outline: 2px solid black;
+    }
+    
+    .input_4{
+      outline: 1px solid black;
+      display: table-cell;
+    }
+    
+    .table_3{
+      width: 600px;
+      background: orange;
+      display: table-cell;
+      outline: 2px solid black;
+    }
+    
+    .input_6{
+      outline: 2px solid black;
+      display: table-cell;
+    }
+
+    .trx_1{
+      outline: 2px solid black;
+    }
+
+
+
+    
+    
+    
+    
+    
+    .an_t{
+      width: 300px;
+      background: orange;
+      outline: 2px solid black;
+      display: inline-block;
+      
+      }
+     
+     
+     
+     
+     
+     
+     
+      .cable_1{width: 450px;
+      background: rgb(170, 125, 41);
+      display: inline-block;
+      text-align: center;
+      
+      }
+
+      .anput_1{
+        outline: 2px solid black;
+       }
+      
+
+    .cable_2{
+      width: 450px;
+      background: rgb(215, 196, 161);
+      outline: 2px solid black;
+      display: inline-block;
+     }
+    .anput_2{ 
+
+    }
+    .anput_3{
+      width: 223px;
+      display: inline-block;
+      outline: 2px solid black;
+
+     }
+
+     .cable_3{
+      width: 450px;
+      outline: 2px solid black;
+      display: inline-block;
+      }
+
+      .anput_4{
+        outline: 2px solid black;
+       }
+      .anput_5{
+        width: 220px;
+        outline: 2px solid black;
+        display: inline-block;
+       }
+
+       .anput_6{
+        outline: 2px solid black;
+        }
+
+        
+        
+        
+        
+        
+        .float_1{
+          width: 400px;
+          outline: 2px solid black;
+          float: left;
+          background: red;
+        }
+
+        .float_2{
+          width: 600px;
+          outline: 2px solid black;
+          background: yellowgreen;
+          float: left;
+        }
+        .float_21{
+          outline: 2px solid black;
+        
+        }
+        .float_22{
+          outline: 2px solid black;
+
+        }
+
+         .float_3{
+          width: 600px;
+          outline: 2px solid black;
+          float: left;
+          background: aliceblue;
+         }
+
+         .float_31{
+          outline: 2px solid black;
+         }
+
+         .float_32{
+          width: 300px;
+          float: left;
+          outline: 2px solid black;
+         }
+         
+
+         .float_4{
+          width: 600px;
+          outline: 2px solid black;
+          float: left;
+         }
+
+         .float_41{
+          outline: 2px solid black;
+         }
+         .float_43{
+          width: 300px;
+          outline: 2px solid black;
+          float: left;
+         }
+         .float_44{
+          width: 300px;
+          outline: 2px solid black;
+         }
+
+
+
+
+
+
+        {}{}{}{}{}
+
+
+
+
+
+    
+    
+    
+    
+  
+     
+     
